@@ -1,24 +1,5 @@
-# my_simple_calculator
+基于Vue的简易桌面计算器（同时也是拿来熟悉element-ui的项目）
 
-## Project setup
-```
-npm install
-```
+待完善：比如输入框的长度应该有限制
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+（有时间再说吧，99.99%的可能是没有时间的）
